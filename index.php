@@ -10,6 +10,9 @@
     <h1>Soy un index 😁</h1>
     <h1>Soy un index 😁😘</h1>
     
-  
+ 
+    <!--Soy un comentario remoto-->
+
+    <!-- Soy un comentario local -->
 </body>
 </html>
