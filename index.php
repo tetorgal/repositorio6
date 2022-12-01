@@ -10,7 +10,6 @@
     <h1>Soy un index 😁</h1>
     <h1>Soy un index 😁😘</h1>
     
-    <h1>Soy una modificacion remota</h1>
-    <h1>modificacion VSCode local</h1>
+  
 </body>
 </html>
